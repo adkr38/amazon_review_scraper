@@ -3,4 +3,5 @@ import gui
 def main():
     gui.gui()
 
-main()
+if __name__ == "__main__":
+    main()
